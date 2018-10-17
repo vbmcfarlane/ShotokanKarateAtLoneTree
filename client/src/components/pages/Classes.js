@@ -61,11 +61,11 @@ render() {
                             </td>
                             <td >
                                 9:00 - 10:00 A<br />
-                                * Adults (14+) Drop-in class <br />
+                                * Advance Training for all ages  <br />
                                  Green Belt &amp; Above. <br />
                                  <br />
                                  <b>* Deferred in lieu of Instructors<br /> &amp;
-                                 Sandan Training (TBA)</b>
+                                 Advance Training (TBA)</b>
                             </td>
                         </tr>
                     </tbody></table>
@@ -111,7 +111,7 @@ render() {
                     Adults who study Shotokan Karate do so for a multitude of reasons.  
                     Some pursue self-defense skills, some want more physical fitness, some want more self-confidence
                     and still others want to have a more peaceful outlook on life.  
-                    Whatever the reason, all of these are attainable throught the art of karate-do.  
+                    Whatever the reason, all of these are attainable through the art of karate-do.  
                     <br />      
                     Karate is the study of blocking, punching, kicking and striking. 
                     Karate-do is all of this and also following the philosophy behind the need for all of it, 
