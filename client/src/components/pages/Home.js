@@ -67,8 +67,10 @@ render() {
 
       </Col>
        <Col xs={2} sm={2} md={2} > </Col>
-      </Row>
-     <Footer />
+</Row>
+ <Row xs={12} sm={12} md={12} lg={12}>
+      <Footer />
+</Row>
      </Grid>
       );
     }

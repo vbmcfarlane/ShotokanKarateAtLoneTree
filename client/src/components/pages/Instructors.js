@@ -141,10 +141,12 @@ render() {
         </Col>
 </Row>
 
-<br /> <br /> <br />
+  <br /> <br /> <br />
   </div>
-  <Footer />
-  </Grid>
+  <Row className="boxline" xs={12} sm={12} md={12} lg={12}>
+     <Footer />
+   </Row> 
+</Grid>
   );
 }
 }

@@ -134,7 +134,9 @@ render() {
      <br /> <br />
   
   </div>
-  <Footer />
+  <Row className="boxline" xs={12} sm={12} md={12} lg={12}>
+     <Footer />
+   </Row> 
   </Grid>
   );
 }
