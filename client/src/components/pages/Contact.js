@@ -8,8 +8,10 @@ class Contact extends Component {
 render() {
   return (
 
-    <Grid>
-     <Header />
+ <Grid>
+      <Row className="boxline" xs={12} sm={12} md={12} lg={12}>
+         <Header />
+      </Row>  
    
     <center><u><h1>Contact Us</h1></u></center>
     <br /> <br />

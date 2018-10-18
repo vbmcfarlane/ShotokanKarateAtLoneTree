@@ -8,7 +8,9 @@ render() {
   return (
 
     <Grid>
+  <Row className="boxline" xs={12} sm={12} md={12} lg={12}>
      <Header />
+  </Row>   
   <div>
     <center><u><h2 style={{color:'black'}}>Classes</h2></u></center>
     <br />  

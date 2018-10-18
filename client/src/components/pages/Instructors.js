@@ -8,7 +8,10 @@ render() {
   return (
 
     <Grid>
-     <Header />
+      
+      <Row className="boxline" xs={12} sm={12} md={12} lg={12}>
+         <Header />
+      </Row>  
   <div>
     <center><u><h1>Instructors</h1></u> </center>
     <hr />
